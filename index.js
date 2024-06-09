@@ -97,7 +97,7 @@ app.post("/webhook", async (req, res) => {
         var mailOptions = {
           from: "mzainali1199@gmail.com",
           to: maillist,
-          subject: "your subjecyt",
+          subject: "Congratulation you are enrolled🌟",
           html: `<body style="font-family: Arial, sans-serif; margin: 0; margin-top: 5px; padding: 0;">
     <div style="max-width: 600px; margin: auto; border: 1px solid #ddd; border-radius: 8px; padding: 0px; background-color: #f9f9f9;">
         
